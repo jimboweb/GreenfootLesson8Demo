@@ -1,0 +1,12 @@
+#Greenfoot properties
+#Fri Mar 09 18:23:59 EST 2018
+mainWindow.width=850
+project.charset=UTF-8
+version=3.0.0
+class.Player.superclass=greenfoot.Actor
+world.lastInstantiated=GreenWorld
+mainWindow.y=40
+class.Player.image=ladybug1.png
+mainWindow.x=40
+class.GreenWorld.superclass=greenfoot.World
+mainWindow.height=600
